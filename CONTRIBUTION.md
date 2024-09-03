@@ -6,7 +6,7 @@ Thank you for considering contributing to the SimPy Tutorial! We welcome contrib
 
 There are several ways you can contribute:
 
-👉 **Reporting Issues**: If you find a bug or have suggestions for improvements, please open an issue on the [Issues](https://github.com/your-repo/issues) page.
+👉 **Reporting Issues**: If you find a bug or have suggestions for improvements, please open an issue on the [Issues]([https://github.com/pasinduanuradhaperera/Simpy_tutorial/]) page.
 
 👉 **Submitting Code Changes**:
    - **Fork the Repository**: Click on the "Fork" button at the top right of this page to create a copy of this repository in your GitHub account.
