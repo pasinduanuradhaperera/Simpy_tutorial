@@ -1,3 +1,4 @@
+![SimPy Logo](SimPy_logo.svg.png) 
 # SimPy Tutorial
 
 ## Introduction
@@ -27,4 +28,20 @@ env = simpy.Environment()
 env.process(my_process(env))
 env.run()
 ```
+##Advanced Topics
+###Explore the following advanced topics to deepen your understanding of SimPy:
+-  Generators and Events 🌀
+-  Resource Constraints ⚙️
+-  Processes and Interactions 🔄
 
+## Examples
+### Check out the examples/ directory for more detailed SimPy models and real-world use cases.
+
+Contributing
+Contributions are welcome! To contribute to this tutorial, please submit a pull request or open an issue. For guidelines, refer to the CONTRIBUTING.md file.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Contact
+For questions, feedback, or suggestions, please reach out to your-email@example.com.
