@@ -6,9 +6,9 @@ Thank you for considering contributing to the SimPy Tutorial! We welcome contrib
 
 There are several ways you can contribute:
 
-1.👉 **Reporting Issues**: If you find a bug or have suggestions for improvements, please open an issue on the [Issues](https://github.com/pasinduanuradhaperera/Simpy_tutorial/issues) page.
+👉 **Reporting Issues**: If you find a bug or have suggestions for improvements, please open an issue on the [Issues](https://github.com/pasinduanuradhaperera/Simpy_tutorial/issues) page.
 
-2.👉 **Submitting Code Changes**:
+👉 **Submitting Code Changes**:
    - **Fork the Repository**: Click on the "Fork" button at the top right of this page to create a copy of this repository in your GitHub account.
    - **Create a New Branch**: Create a new branch for your changes using a descriptive name. For example:
      ```bash
@@ -27,7 +27,7 @@ There are several ways you can contribute:
      ```
    - **Create a Pull Request**: Go to the original repository and open a pull request from your branch. Provide a detailed description of your changes and why they are beneficial.
 
-3.👉 **Improving Documentation**: Help improve the documentation by suggesting edits or creating new content. You can do this by submitting pull requests or suggesting edits in issues.
+👉 **Improving Documentation**: Help improve the documentation by suggesting edits or creating new content. You can do this by submitting pull requests or suggesting edits in issues.
 
 ## Style Guide
 
