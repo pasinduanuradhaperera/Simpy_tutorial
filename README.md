@@ -10,3 +10,21 @@ To use SimPy, you need to have Python installed on your machine. You can install
 
 ```bash
 pip install simpy
+```
+## Getting Started
+### Basic Usage
+Creating a Simple Simulation
+Here's a basic example to help you get started with SimPy:
+```bash
+import simpy
+
+def my_process(env):
+    print('Process started at', env.now)
+    yield env.timeout(5)
+    print('Process finished at', env.now)
+
+env = simpy.Environment()
+env.process(my_process(env))
+env.run()
+```
+
