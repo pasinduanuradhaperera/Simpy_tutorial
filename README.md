@@ -36,10 +36,10 @@ env.run()
 -  Processes and Interactions 🔄
 
 ## Examples 🤔
-Check out the **examples/** directory for more detailed SimPy models and real-world use cases.
+Check out the [Examples](examples/) directory for more detailed SimPy models and real-world use cases.
 
 ## Contributing 🤗
-Contributions are welcome! To contribute to this tutorial, please submit a pull request or open an issue. For guidelines, refer to the **CONTRIBUTING.md** file.
+Contributions are welcome! To contribute to this tutorial, please submit a pull request or open an issue. For guidelines, refer to the [CONTRIBUTING.md](CONTRIBUTION.md) file.
                
 ## License 🪪
 This project is licensed under the **MIT License.** See the LICENSE file for details.
