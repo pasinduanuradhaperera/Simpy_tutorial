@@ -29,10 +29,6 @@ There are several ways you can contribute:
 
 3. **Improving Documentation**: Help improve the documentation by suggesting edits or creating new content. You can do this by submitting pull requests or suggesting edits in issues.
 
-## Code of Conduct
-
-Please adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) while participating in this project. We are committed to creating a welcoming and inclusive environment for all contributors.
-
 ## Style Guide
 
 Follow these guidelines when contributing:
