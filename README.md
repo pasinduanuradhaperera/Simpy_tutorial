@@ -1,19 +1,19 @@
 ![SimPy Logo](SimPy_logo.svg.png) 
-# SimPy Tutorial
+# SimPy Tutorial 🐍
 
-## Introduction
+## Introduction 👨‍🏫
 
 Welcome to the SimPy Tutorial! This repository provides a comprehensive guide to learning SimPy, a process-based discrete-event simulation framework for Python. Whether you're new to simulation or looking to enhance your skills, this tutorial will help you get started with SimPy.
 
-## Installation
+## Installation 🏗️
 
 To use SimPy, you need to have Python installed on your machine. You can install SimPy using pip:
 
 ```bash
 pip install simpy
 ```
-## Getting Started
-### Basic Usage
+## Getting Started 😉
+### Basic Usage 
 Creating a Simple Simulation
 Here's a basic example to help you get started with SimPy:
 ```bash
@@ -28,20 +28,21 @@ env = simpy.Environment()
 env.process(my_process(env))
 env.run()
 ```
-##Advanced Topics
-###Explore the following advanced topics to deepen your understanding of SimPy:
+## Advanced Topics 🤠
+
+### Explore the following advanced topics to deepen your understanding of SimPy:
 -  Generators and Events 🌀
 -  Resource Constraints ⚙️
 -  Processes and Interactions 🔄
 
-## Examples
+## Examples 🤔
 Check out the **examples/** directory for more detailed SimPy models and real-world use cases.
 
-## Contributing
+## Contributing 🤗
 Contributions are welcome! To contribute to this tutorial, please submit a pull request or open an issue. For guidelines, refer to the **CONTRIBUTING.md** file.
-
-## License
+               
+## License 🪪
 This project is licensed under the **MIT License.** See the LICENSE file for details.
 
-## Contact
+## Contact 📧
 For questions, feedback, or suggestions, please reach out to pasinduanuradhaperera@gmail.com
