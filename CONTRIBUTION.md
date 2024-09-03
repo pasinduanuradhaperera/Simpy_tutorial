@@ -1,14 +1,14 @@
-# Contributing to SimPy Tutorial
+# Contributing to SimPy Tutorial 🤗
 
 Thank you for considering contributing to the SimPy Tutorial! We welcome contributions to improve this tutorial and make it more useful for the community.
 
-## How to Contribute
+## How to Contribute 😉
 
 There are several ways you can contribute:
 
-1. **Reporting Issues**: If you find a bug or have suggestions for improvements, please open an issue on the [Issues](https://github.com/your-repo/issues) page.
+👉 **Reporting Issues**: If you find a bug or have suggestions for improvements, please open an issue on the [Issues](https://github.com/your-repo/issues) page.
 
-2. **Submitting Code Changes**:
+👉 **Submitting Code Changes**:
    - **Fork the Repository**: Click on the "Fork" button at the top right of this page to create a copy of this repository in your GitHub account.
    - **Create a New Branch**: Create a new branch for your changes using a descriptive name. For example:
      ```bash
@@ -27,7 +27,7 @@ There are several ways you can contribute:
      ```
    - **Create a Pull Request**: Go to the original repository and open a pull request from your branch. Provide a detailed description of your changes and why they are beneficial.
 
-3. **Improving Documentation**: Help improve the documentation by suggesting edits or creating new content. You can do this by submitting pull requests or suggesting edits in issues.
+👉 **Improving Documentation**: Help improve the documentation by suggesting edits or creating new content. You can do this by submitting pull requests or suggesting edits in issues.
 
 ## Style Guide
 
@@ -38,8 +38,8 @@ Follow these guidelines when contributing:
 - Follow the existing coding style and formatting.
 - Ensure that your changes are well-tested.
 
-## Questions?
+## Questions? 🙋‍♂️
 
 If you have any questions or need further assistance, feel free to reach out to the maintainers by opening an issue or contacting us directly at [pasinduanuradhaperera@gmail.com](mailto:pasinduanuradhaperera@gmail.com).
 
-Thank you for contributing to the SimPy Tutorial!
+Thank you 🙏❤️ for contributing to the SimPy Tutorial!
