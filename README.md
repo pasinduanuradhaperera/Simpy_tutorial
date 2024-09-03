@@ -35,13 +35,13 @@ env.run()
 -  Processes and Interactions 🔄
 
 ## Examples
-### Check out the examples/ directory for more detailed SimPy models and real-world use cases.
+Check out the **examples/** directory for more detailed SimPy models and real-world use cases.
 
-Contributing
-Contributions are welcome! To contribute to this tutorial, please submit a pull request or open an issue. For guidelines, refer to the CONTRIBUTING.md file.
+## Contributing
+Contributions are welcome! To contribute to this tutorial, please submit a pull request or open an issue. For guidelines, refer to the **CONTRIBUTING.md** file.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+## License
+This project is licensed under the **MIT License.** See the LICENSE file for details.
 
-Contact
-For questions, feedback, or suggestions, please reach out to your-email@example.com.
+## Contact
+For questions, feedback, or suggestions, please reach out to pasinduanuradhaperera@gmail.com
