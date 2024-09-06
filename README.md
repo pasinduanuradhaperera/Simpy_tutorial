@@ -12,6 +12,11 @@ To use SimPy, you need to have Python installed on your machine. You can install
 ```bash
 pip install simpy
 ```
+or
+```bash
+pip3 install simpy
+```
+
 ## Getting Started 😉
 ### Basic Usage 
 Creating a Simple Simulation
