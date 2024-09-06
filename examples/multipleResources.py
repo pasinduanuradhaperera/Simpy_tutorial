@@ -15,7 +15,7 @@ resource1 = simpy.Resource(env, capacity=1)
 resource2 = simpy.Resource(env, capacity=1)
 
 # Create workers
-env.process(worker(env, 'Worker 1', resource1, resource2))
-env.process(worker(env, 'Worker 2', resource1, resource2))
+for i in range(1,10):
+    env.process(worker(env, f'Worker {i}', resource1, resource2))
 
 env.run()

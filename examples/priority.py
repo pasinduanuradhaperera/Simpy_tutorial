@@ -3,7 +3,7 @@ import simpy
 def process(name, env, resource, priority):
     print(f'{name} arriving at {env.now}')
     
-    with resource.request(priority=priority) as request:
+    with resource.request(priority = priority) as request:
         yield request
         print(f'{name} started at {env.now} with priority {priority}')
         yield env.timeout(2)
@@ -18,3 +18,4 @@ env.process(process('Process 2', env, resource, priority=1))
 env.process(process('Process 3', env, resource, priority=3))
 
 env.run()
+ 
