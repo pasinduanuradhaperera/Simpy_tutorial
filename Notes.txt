@@ -1,0 +1,27 @@
+-SimPy is a process-based discrete-event simulation framework based on standard Python. 
+-It's used for modeling and simulating systems where events occur at discrete points in time. 
+-This can include things like queues, traffic systems, or any scenario where you want to 
+    model the flow of events over time.
+
+Key Concepts in SimPy
+
+Environment:
+
+The core object in SimPy is the Environment. It handles the simulation time and schedules events.
+You create an Environment instance to start the simulation.
+
+Processes:
+
+In SimPy, processes represent entities that perform actions over time.
+Processes are implemented as Python generators and use yield to wait for events.
+Processes are defined using the @simpy.process decorator.
+
+Events:
+
+Events are objects that represent something that happens at a specific point in time.
+Common events include Timeout, Event, and Store (used for resource management).
+
+Resources:
+
+Resources manage access to shared resources in a simulation, such as a server or a machine.
+Resources are defined with classes like Resource, PriorityResource, and Container.
